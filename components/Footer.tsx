@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
              <div className="flex items-center space-x-3 mb-6">
               <div className="w-12 h-12 flex items-center justify-center">
                 <img 
-                  src="Logo Libr'audit-Blanc.png" 
+                  src="logoblanc.png" 
                   alt="LIBR'AUDIT" 
                   className="w-full h-full object-contain"
                 />
@@ -50,7 +50,7 @@ const Footer: React.FC = () => {
               className="inline-flex items-center gap-3 bg-white/5 hover:bg-white/10 text-white px-4 py-3 rounded-xl transition-all border border-white/10 group"
             >
               <img 
-                src="Logo-LinkedIn.png" 
+                src="logolinkedin.png" 
                 alt="LinkedIn" 
                 className="w-6 h-6 object-contain group-hover:scale-110 transition-transform"
               />
