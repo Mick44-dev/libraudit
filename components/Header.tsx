@@ -13,7 +13,7 @@ const Header: React.FC<HeaderProps> = ({ currentPage }) => {
         <a href="#home" className="flex items-center space-x-3 group">
           <div className="w-16 h-16 flex items-center justify-center transition-transform group-hover:scale-105">
             <img 
-              src="/logobleu.jpg" 
+              src="logobleu.jpg" 
               alt="LIBR'AUDIT" 
               className="w-full h-full object-contain"
             />
