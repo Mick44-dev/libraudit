@@ -28,7 +28,7 @@ const ConceptPage: React.FC = () => {
             <AnimatedSection className="order-2 lg:order-1">
               <h2 className="text-3xl font-bold text-slate-900 mb-8">Pour qui ?</h2>
               <p className="text-lg text-slate-600 mb-8">
-                Dirigeants et salariés de TPE/PME (1–50 salariés) qui :
+                Dirigeants et salariés de TPE/PME (1–30 salariés) qui :
               </p>
               <ul className="space-y-6">
                 {[
